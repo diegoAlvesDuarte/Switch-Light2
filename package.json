@@ -1,0 +1,15 @@
+{
+  "name": "serv",
+  "version": "1.0.0",
+  "description": "Serve lost ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boot Hacker",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
